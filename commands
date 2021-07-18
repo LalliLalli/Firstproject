@@ -5,3 +5,5 @@ git add .
 git status
 git commit -m "This is my first commit under Firstproject"
 git branch feature-1
+git log --oneline
+
