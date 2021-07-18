@@ -1,0 +1,7 @@
+git init
+//creating a file
+nano hello.txt
+git add . 
+git status
+git commit -m "This is my first commit under Firstproject"
+git branch feature-1
